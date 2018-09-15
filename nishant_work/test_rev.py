@@ -1,7 +1,6 @@
 from rev_input import lst
-
-
 def test_lst():
+
     result = lst('hello there i am robot')
     assert result == ' tobor ma i ereht olleh'
 
